@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.ves{
+    display: flex;
+}
+
+.Conreiner{
+    width: 1358px;
+    height: -45px;
+    background: #000000;
+    margin-top: -20px;
+    
+}
+
+.nomberP{
+    font-size: 10px;
+    display: flex;
+}
+
+.nomber{
+    width: 500px;
+    height: 16px;    
+    margin-top: -95px; 
+    margin-left: 250px;
+    color: beige;
+    display: flex;
+}
+
+.RegP{
+    width: 217px;
+    height: 16px;
+    margin-top: -15px;
+    margin-left: 1008px;
+    font-size: 11px;
+    color: beige;
+    display: flex;
+}
+
+.LineUl{
+    width: 1358px;
+    height: 40px;
+    margin-top: -2px;
+    background-color: rgb(53, 50, 46);
+    display: flex;
+}
+
+.porten{
+    width: 104px;
+    height: 49px;
+    margin-top: 8px;
+    margin-left: 305px;
+    color: white;
+    display: flex;
+}

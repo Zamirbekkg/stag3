@@ -1,0 +1,49 @@
+
+
+.urlConteiner {
+    width: 600px;
+    height: 25px;
+    margin-top: 75px;
+    margin-left: 700px;
+    padding: 10px;  
+    border-radius: 5px; 
+    margin-bottom: 15px;
+    transition: 0.3s;
+    column-gap: 15px;
+    word-spacing: 5px; 
+    font-size: 15px;
+    display: flex;
+    text-align: center;
+    background-color: #fff;
+}
+
+.urlConteiner a {
+    color: #fff;
+    text-decoration: none; 
+}
+
+.Home{
+    margin-top: -40px;
+    color: white;
+}
+
+.Like{
+    margin-top: -40px;
+}
+
+.Personal{
+    margin-top: -40px;
+    
+}
+
+.Setting{
+    margin-top: -40px;
+}
+
+.Card{
+    margin-top: -40px;
+}
+
+.Search{
+    margin-top: -40px;
+}
